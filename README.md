@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 🎓 I'm a Computer Science undergrad (Specialization: CyberSecurity)  
-🚀 Learning Full Stack Development | AI | ML |
+🚀 Learning Full Stack Development | AI | ML | Deep Learning
 🌱 Building projects that merge tech and impact
 
 ---
@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 ### 💡 Interests
 - 💻 DSA in **Java**
-- 🤖 **ML + AI**
+- 🤖 **AI + ML**
 - 🌐 Web Dev (**MERN**)
 - 👾 Deep Learning
+
 
 ---
 **Languages & Tools:**
@@ -89,6 +90,24 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/panshularora_/)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panshularora&show_icons=true&theme=radical&count_private=true" alt="panshularora's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panshularora&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=panshularora&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panshularora&label=Profile%20views&color=0e75b6&style=flat" alt="panshularora" /> </p>
+
+
+
 
 
 
