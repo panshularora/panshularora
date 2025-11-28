@@ -38,25 +38,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm **Panshul Arora** 
-
-
-🎓 I'm a Computer Science undergrad (Specialization: CyberSecurity)  
-🚀 Learning Full Stack Development | AI | ML | Deep Learning
-🌱 Building projects that merge tech and impact
-
----
 <!-- Right-aligned GIF -->
 <img align="right" alt="Coding GIF" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBsNTl1OTh5NzVja3B4cms0NjY1aXh0bDU4amVzbDlvYTgzdHgxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif" />
 
-### 💡 Interests
-- 💻 DSA in **Java**
-- 🤖 **AI + ML**
-- 🌐 Web Dev (**MERN**)
-- 👾 Deep Learning
-
-
 ---
+
 ## 🛠️ Tech Stack:
 
 <!-- Languages -->
@@ -120,19 +106,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panshularora&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=panshularora&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panshularora&label=Profile%20views&color=0e75b6&style=flat" alt="panshularora" /> </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
