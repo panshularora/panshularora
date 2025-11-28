@@ -1,4 +1,27 @@
+<h1 align="center">👋 Hey, I'm Panshul Arora</h1>
 
+<p align="center">
+  <b>Computer Science Undergrad | CyberSecurity Specialist | AI/ML Practitioner</b>
+  <br>
+  🚀 Full Stack Development • 🤖 Deep Learning • 🔐 Network Security • ☁️ Cloud
+</p>
+
+---
+
+## ⚡ About Me  
+- 🎓 Pursuing **B.Tech in Computer Science (CyberSecurity)**  
+- 🛠️ Building **full-stack + AI-based projects**  
+- 🤖 Working with **ML, DL, NLP, and vision models**  
+- 🐧 Practicing on **Wireshark, Docker, and Cloud**  
+- 🌱 Always learning — always shipping!
+
+---
+
+## 🚀 My Current Focus  
+- Mastering **FastAPI + Docker + Databases**  
+- Learning **Neural Networks, LLMs & Transformers**  
+- Working on **AI + Cybersecurity hybrid projects**  
+- Preparing for **top internship roles (AI/ML & Cybersecurity)**
 
 <!--
 **panshularora/panshularora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
