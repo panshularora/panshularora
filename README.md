@@ -1,31 +1,34 @@
-### 💫 About Me
+## About
 
-- 🎓 B.Tech Computer Science (Cybersecurity) @ **SRM IST Kattankulathur** (9.05/10 CGPA)
-- 🧠 Built **NEUROREAD** — adaptive reading assistant with a FastAPI backend (simplify → TTS → BKT practice loop)
-- ⚡ I care about retrieval that is honest — hybrid search, reranking, and APIs that stay quiet when the documents do not support the answer
-- 👨‍💼 Interned at **Mphasis** on agent-style workflows for a BlackRock engagement; Samsung PRISM on multi-agent RAG over 3GPP specs
-- 🛠️ Currently shipping: ContextMind (BM25 + dense RAG API) and tightening the RANBOT / NeuroRead repos so they are easy to run
-- 📬 Looking for **winter 2026** or **summer 2027** — RAG, agents, or backend. Chennai / remote / on-site India. DMs open
+B.Tech Cybersecurity at SRM IST Kattankulathur (CGPA 9.05). I spend most of my time on retrieval and small agent pipelines, then wrap them in FastAPI so someone else can actually call them.
 
-> Code over templates. If a repo looks empty, it is not ready yet.
+Last year I interned at Mphasis on agent-style workflows for a BlackRock engagement, and at Samsung PRISM on multi-agent RAG over 3GPP specs.
 
-### 🛠 Tech I actually use
+I am looking for a winter 2026 or summer 2027 intern seat — Chennai, remote, or on-site in India.
 
-`Python` · `FastAPI` · `LangChain` · `LangGraph` · `PyTorch` · `RAG` · `Docker` · `TypeScript` · `Next.js`
+## Projects
 
-### 🚀 Featured Projects
+**[NEUROREAD](https://github.com/panshularora/NEUROREAD)**  
+Reading assistant for people who need text simplified and paced. FastAPI backend, Groq for simplification, word-level TTS, BKT practice loop. This is the repo to open first.
 
-| 🧠 [NEUROREAD](https://github.com/panshularora/NEUROREAD) Adaptive reading platform — Groq simplification, word-level TTS, BKT / IRT practice engine, FastAPI + React. | 🔍 [ContextMind](https://github.com/panshularora/contextmind) Hybrid BM25 + dense RAG API with a reranker. Refuses to answer when retrieved evidence is thin. |
-| --- | --- |
-| 📡 [samsung / RANBOT](https://github.com/panshularora/samsung) Multi-agent RAG over 3GPP specs (Samsung PRISM) — LangGraph agents, hybrid retrieval, FastAPI. | 📱 [MindTheProduct](https://github.com/panshularora/MindTheProduct) Shipped Next.js app on Vercel. Product-shaped UI, not a tutorial dump. |
+**[ContextMind](https://github.com/panshularora/contextmind)**  
+Hybrid BM25 + dense RAG with a reranker. If the retrieved chunks do not support the question, the API does not invent an answer. Code is landing in this repo now.
 
-### 📧
+**[RANBOT](https://github.com/panshularora/samsung)**  
+Samsung PRISM work. LangGraph agents over 3GPP documents, hybrid retrieval, FastAPI. Implementation is under `ranbot/`.
+
+**[MindTheProduct](https://github.com/panshularora/MindTheProduct)**  
+Next.js app I actually shipped. Live on Vercel.
+
+## Stack
+
+Python, FastAPI, LangChain / LangGraph, PyTorch, Docker, TypeScript, Next.js.
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/panshul-arora-bab97230a/) · panshularora2@gmail.com
 
-### 📊 GitHub Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=panshularora&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160em" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panshularora&layout=compact&theme=transparent&hide_border=true" height="160em" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=panshularora&show_icons=true&theme=transparent&hide_border=true" height="150em" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panshularora&layout=compact&theme=transparent&hide_border=true" height="150em" alt="languages" />
 </p>
