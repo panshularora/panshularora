@@ -20,8 +20,3 @@ Python, FastAPI, LangChain, PyTorch, Docker, TypeScript, Next.js.
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/panshul-arora-bab97230a/) · panshularora2@gmail.com
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=panshularora&show_icons=true&theme=transparent&hide_border=true" height="150em" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panshularora&layout=compact&theme=transparent&hide_border=true" height="150em" alt="languages" />
-</p>
