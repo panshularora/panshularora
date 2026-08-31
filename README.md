@@ -1,28 +1,21 @@
 ## About
 
-B.Tech Cybersecurity at SRM IST Kattankulathur (CGPA 9.05). I spend most of my time on retrieval and small agent pipelines, then wrap them in FastAPI so someone else can actually call them.
+B.Tech Cybersecurity at SRM IST Kattankulathur (CGPA 9.05). I work on Python backends, RAG, and small agent pipelines.
 
-Last year I interned at Mphasis on agent-style workflows for a BlackRock engagement, and at Samsung PRISM on multi-agent RAG over 3GPP specs.
+Interned at Mphasis on agent-style workflows for a BlackRock engagement.
 
-I am looking for a winter 2026 or summer 2027 intern seat — Chennai, remote, or on-site in India.
+Looking for a winter 2026 or summer 2027 intern seat — Chennai, remote, or on-site in India.
 
 ## Projects
 
-**[NEUROREAD](https://github.com/panshularora/NEUROREAD)**  
-Reading assistant for people who need text simplified and paced. FastAPI backend, Groq for simplification, word-level TTS, BKT practice loop. This is the repo to open first.
-
-**[ContextMind](https://github.com/panshularora/contextmind)**  
-Hybrid BM25 + dense RAG with a reranker. If the retrieved chunks do not support the question, the API does not invent an answer. Code is landing in this repo now.
-
-**[RANBOT](https://github.com/panshularora/samsung)**  
-Samsung PRISM work. LangGraph agents over 3GPP documents, hybrid retrieval, FastAPI. Implementation is under `ranbot/`.
-
 **[MindTheProduct](https://github.com/panshularora/MindTheProduct)**  
-Next.js app I actually shipped. Live on Vercel.
+Next.js app I shipped and deployed. [Live](https://mind-the-product.vercel.app).
+
+**[NEUROREAD](https://github.com/panshularora/NEUROREAD)** and **[ContextMind](https://github.com/panshularora/contextmind)** are older RAG / assistant experiments. They are not in a runnable state right now — I am cleaning them up before I treat them as portfolio pieces.
 
 ## Stack
 
-Python, FastAPI, LangChain / LangGraph, PyTorch, Docker, TypeScript, Next.js.
+Python, FastAPI, LangChain, PyTorch, Docker, TypeScript, Next.js.
 
 ## Contact
 
