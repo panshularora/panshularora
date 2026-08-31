@@ -1,22 +1,12 @@
-# Panshul Arora
+I build retrieval systems and small agents, then put a FastAPI in front.
 
-3rd-year B.Tech (Cybersecurity) at SRM IST KTR. I build RAG systems and small agent pipelines, then wrap them in FastAPI.
+3rd-year, SRM IST KTR. Mphasis intern. Chennai.
 
-Looking for a **winter 2026** or **summer 2027** internship in applied LLM / retrieval / backend.
+Winter 2026 / summer 2027.
 
-- Email: panshularora2@gmail.com
-- LinkedIn: [panshul-arora](https://www.linkedin.com/in/panshul-arora-bab97230a/)
-- Chennai, India · remote or on-site in India
+- [NEUROREAD](https://github.com/panshularora/NEUROREAD) — reading assistant with a real backend, not a wrapper
+- [samsung](https://github.com/panshularora/samsung) — multi-agent RAG on 3GPP specs (PRISM)
+- [contextmind](https://github.com/panshularora/contextmind) — RAG that stays quiet when evidence is thin
+- [MindTheProduct](https://github.com/panshularora/MindTheProduct) — shipped Next.js app
 
-## What to open first
-
-1. [NEUROREAD](https://github.com/panshularora/NEUROREAD) — multi-stage LLM assistant (route → generate → check)
-2. [samsung / RANBOT](https://github.com/panshularora/samsung) — multi-agent RAG over 3GPP specs (Samsung PRISM)
-3. [MindTheProduct](https://github.com/panshularora/MindTheProduct) — product-shaped Next.js app, live on Vercel
-4. ContextMind — hybrid BM25 + dense RAG API. Repo going up this week.
-
-## Stack I actually use
-
-Python, FastAPI, LangChain / LangGraph, retrieval (BM25 + dense + rerank), PyTorch, Docker.
-
-Also interned at Mphasis (agent-style workflows on a BlackRock engagement).
+panshularora2@gmail.com · [LinkedIn](https://www.linkedin.com/in/panshul-arora-bab97230a/)
